@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Charooo-159
-- 👀 I’m interested in learninh coding 
+- 👀 I’m interested in learning coding 
 - 🌱 I’m currently learning computer science (beginner)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
